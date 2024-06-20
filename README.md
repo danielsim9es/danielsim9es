@@ -11,7 +11,7 @@ Estudante de Ciência da Computação | Apaixonado por Tecnologia e Banco de Dad
 <p>
 
  📚 Formação:
- Atualmente, estou cursando Ciência da Computação na universidade. Minhas disciplinas favoritas incluem algoritmos, estruturas de dados e programação orientada a objetos.
+ Atualmente, estou cursando Ciência da Computação na universidade Cidade de São Paulo (UNICID). Minhas disciplinas favoritas incluem algoritmos, estruturas de dados e programação orientada a objetos.
  
 💡 Interesses Tecnológicos:
 
