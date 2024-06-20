@@ -1,16 +1,17 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Olá Githubers</h1></summary>
-    👋 Me chamo Daniel, um estudante de Ciência da Computação apaixonado por tecnologia e com um interesse especial em bancos de dados. 
-    
+    <summary><h1 style="display: inline-block">Olá Githuber's</h1></summary>
+    👋 Me chamo Daniel, 
+    Um estudante de Ciência da Computação apaixonado por tecnologia e com um interesse especial em bancos de dados.     
     Aqui estão algumas informações sobre mim:
 </div>
 Estudante de Ciência da Computação | Apaixonado por Tecnologia e Banco de Dados
 <!-- Presentation -->
 <p>
 
- 📚 Formação: Atualmente, estou cursando Ciência da Computação na universidade. Minhas disciplinas favoritas incluem algoritmos, estruturas de dados e programação orientada a objetos.
+ 📚 Formação:
+ Atualmente, estou cursando Ciência da Computação na universidade. Minhas disciplinas favoritas incluem algoritmos, estruturas de dados e programação orientada a objetos.
  
 💡 Interesses Tecnológicos:
 
@@ -21,7 +22,6 @@ Desenvolvimento Web: Tenho experiência com HTML, CSS e JavaScript. Adoro criar 
 🚀 Projetos:
 
 Sistema de Gerenciamento de Biblioteca: Desenvolvi um sistema para gerenciar empréstimos e devoluções de livros em uma biblioteca local. Usei MySQL para armazenar os dados.
-Site Pessoal: Criei meu próprio site usando HTML e CSS para compartilhar meus projetos e artigos relacionados à tecnologia.
 
 🌟 Contribuições Open Source:
 
@@ -36,11 +36,6 @@ Contribuo para projetos relacionados a ciência de dados e programação em R e 
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Seaborn Data Visualization]
-- [Exploratory Data Analysis]
-- [Interactive Data Visualization]
-- [Data Querying and Analysis]
-- [Client Registry System]
 
 <!-- GIF -->
 <p align="left">
