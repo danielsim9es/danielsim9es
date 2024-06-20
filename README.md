@@ -2,7 +2,8 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Olá Githubers</h1></summary>
-    👋 Olá! Eu sou o Daniel, um estudante de Ciência da Computação apaixonado por tecnologia e com um interesse especial em bancos de dados. 
+    👋 Me chamo Daniel, um estudante de Ciência da Computação apaixonado por tecnologia e com um interesse especial em bancos de dados. 
+    
     Aqui estão algumas informações sobre mim:
 </div>
 Estudante de Ciência da Computação | Apaixonado por Tecnologia e Banco de Dados
