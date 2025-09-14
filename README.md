@@ -22,7 +22,9 @@ Desenvolvimento Web: Tenho experiência com HTML, CSS e JavaScript. Adoro criar 
 🚀 Projetos:
 
 Sistema de Música: Desenvolvi um sistema para ouvir música e pesquisar por comando de voz. Usei MySQL para armazenar os dados.
+
 Sistema Integrado Segurança Publica x Privada - Esse sistema armazena informações de ocorrências da PMSP e Empresas Privadas.
+
 🌟 Contribuições Open Source:
 
 Contribuo para projetos relacionados a ciência de dados e programação em R e Python
