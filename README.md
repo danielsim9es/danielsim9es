@@ -11,7 +11,7 @@ Estudante de Ciência da Computação | Apaixonado por Tecnologia e Banco de Dad
 <p>
 
  📚 Formação:
- Atualmente, estou cursando Ciência da Computação na universidade Cidade de São Paulo (UNICID). Minhas disciplinas favoritas incluem algoritmos, estruturas de dados e programação orientada a objetos.
+ Atualmente, estou cursando Ciência da Computação na Universidade Cidade de São Paulo (UNICID). Minhas disciplinas favoritas é Banco de Dados.
  
 💡 Interesses Tecnológicos:
 
@@ -21,11 +21,9 @@ Desenvolvimento Web: Tenho experiência com HTML, CSS e JavaScript. Adoro criar 
 
 🚀 Projetos:
 
-Sistema de Gerenciamento de Biblioteca: Desenvolvi um sistema para gerenciar empréstimos e devoluções de livros em uma biblioteca local. Usei MySQL para armazenar os dados.
-
+Sistema de Música: Desenvolvi um sistema para ouvir música e pesquisar por comando de voz. Usei MySQL para armazenar os dados.
+Sistema Integrado Segurança Publica x Privada - Esse sistema armazena informações de ocorrências da PMSP e Empresas Privadas.
 🌟 Contribuições Open Source:
-
-Participo de meetups e clubes do livro para discutir livros clássicos de Ciência da Computação1.
 
 Contribuo para projetos relacionados a ciência de dados e programação em R e Python
 
