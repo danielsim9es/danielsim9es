@@ -1,304 +1,292 @@
 # 👋 Olá, eu sou Daniel Simões
 
-### `Ciência da Computação` · `Data Analytics` · `IA` · `Software Development`
+### `Computer Science` · `Data Analytics` · `Artificial Intelligence` · `Software Development`
 
-> **Transformando problemas reais em soluções através de tecnologia, dados e inteligência artificial.**
+<p align="left">
+  <a href="https://github.com/danielsim9es">
+    <img src="https://img.shields.io/github/followers/danielsim9es?style=for-the-badge&label=Followers"/>
+  </a>
+  <a href="https://github.com/danielsim9es?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repositories-4-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <img src="https://img.shields.io/badge/Brazil-🇧🇷-009c3b?style=for-the-badge"/>
+</p>
 
-Sou estudante de **Ciência da Computação** e desenvolvedor em formação, construindo minha trajetória na interseção entre **Software, Dados e Inteligência Artificial**.
+> **Construindo soluções onde tecnologia, dados e inteligência artificial encontram problemas reais.**
 
-Minha experiência profissional me ensinou a olhar primeiro para o **problema**, entender os **dados** e só então pensar na **tecnologia**.
+Sou estudante de **Ciência da Computação** e desenvolvedor em formação.
 
-Hoje, uso essa visão para criar projetos, automatizar processos, analisar informações e desenvolver soluções que possam gerar impacto na prática.
+Minha trajetória combina **experiência profissional, tecnologia, dados, automação e desenvolvimento de software**, buscando transformar necessidades reais em soluções digitais.
+
+Não vejo tecnologia apenas como código.
+
+Vejo como uma ferramenta para **entender problemas, organizar informações, automatizar processos e criar soluções que gerem valor.**
 
 ---
 
-## 🧠 O que me move
+# 🧭 Minha jornada
+
+Minha entrada na tecnologia começou muito antes de escrever código profissionalmente.
+
+A experiência com **processos, dados, administração, automação e apoio à gestão** me ensinou a enxergar problemas de uma perspectiva diferente.
+
+Quando comecei a aprofundar meus estudos em Ciência da Computação, encontrei na tecnologia uma forma de transformar essa experiência em soluções.
+
+Hoje estou construindo minha carreira na interseção entre:
 
 ```text
-PROBLEMA
-   ↓
-DADOS
-   ↓
-ANÁLISE
-   ↓
-TECNOLOGIA
-   ↓
-SOLUÇÃO
+              ┌─────────────────┐
+              │    PROBLEMAS    │
+              └────────┬────────┘
+                       ↓
+              ┌─────────────────┐
+              │      DADOS      │
+              └────────┬────────┘
+                       ↓
+              ┌─────────────────┐
+              │    TECNOLOGIA   │
+              └────────┬────────┘
+                       ↓
+              ┌─────────────────┐
+              │    SOLUÇÕES     │
+              └─────────────────┘
 ```
-
-Gosto de transformar ideias em projetos concretos.
-
-De um script em Python a uma aplicação SaaS, de um dashboard a um projeto de Inteligência Artificial — estou sempre buscando entender **como a tecnologia pode tornar um processo melhor, mais inteligente ou mais acessível.**
 
 ---
 
-## ⚡ Atualmente
+# 🚀 O que venho construindo
 
-🎓 **Ciência da Computação — UNICID**
+Meu GitHub registra diferentes fases da minha evolução.
 
-💻 Desenvolvimento de Software
+### 📚 BibliotecaDev
 
-📊 Data Analytics & Business Intelligence
+Um projeto relacionado ao universo de programação e tecnologia, reunindo materiais e referências para estudos.
 
-🤖 Inteligência Artificial & Machine Learning
+Representa uma das minhas primeiras iniciativas de organização e compartilhamento de conhecimento dentro da área.
 
-🐍 Python & automação
+---
 
-🗄️ Banco de Dados & SQL
+### 🔄 n8n Workflows
 
-🌐 Desenvolvimento Web
+Exploração de **automação de processos e workflows**, utilizando o ecossistema do n8n.
 
-🔐 Segurança da Informação
+Esse tipo de projeto representa uma área que passou a fazer cada vez mais parte dos meus interesses:
 
-♿ Tecnologia Assistiva & Inclusão
+**automação + integração + produtividade + tecnologia.**
+
+---
+
+### 🎯 ProspectaHouse
+
+Um dos projetos que mais representa minha evolução recente.
+
+A ideia nasceu da necessidade de transformar **dados empresariais em inteligência para prospecção comercial**.
+
+O projeto explora conceitos como:
+
+* Prospecção B2B
+* Dados empresariais
+* APIs
+* Automação
+* CRM
+* Organização de leads
+* Multi-tenancy
+* Créditos e usuários
+* Inteligência aplicada a vendas
+
+**Tecnologias e conceitos explorados:**
+
+`TypeScript` · `Next.js` · `React` · `NestJS` · `Supabase` · `APIs` · `CRM`
+
+> O projeto evoluiu posteriormente para uma visão mais ampla de plataforma de inteligência comercial.
+
+---
+
+# 🧠 Atualmente estou expandindo para
+
+## 📊 Data Analytics
+
+Transformar dados brutos em informações que possam apoiar decisões.
+
+**Python · Pandas · NumPy · SQL · Power BI · Excel**
+
+---
+
+## 🤖 Inteligência Artificial
+
+Explorar IA e Machine Learning para resolver problemas específicos.
+
+**Machine Learning · IA Generativa · Classificação · Automação Inteligente**
+
+---
+
+## 💻 Software Development
+
+Construir aplicações completas, APIs e produtos digitais.
+
+**Python · Java · JavaScript · TypeScript · React · Node.js**
+
+---
+
+## 🔐 Tecnologia & Segurança
+
+Tenho interesse crescente em:
+
+**Segurança da Informação · Redes · Infraestrutura · Sistemas Distribuídos**
+
+---
+
+# 🎓 Ciência da Computação
+
+Atualmente curso **Ciência da Computação — Bacharelado na UNICID**.
+
+Durante minha formação, venho estudando:
+
+* Algoritmos
+* Estruturas de Dados
+* Banco de Dados
+* Grafos
+* Redes
+* Infraestrutura
+* Sistemas Distribuídos
+* Engenharia de Software
+* Compiladores
+* Ciência de Dados
+* Machine Learning
+* Inteligência Artificial
+* Segurança da Informação
+
+---
+
+# ♿ Próximo capítulo: IncuIA
+
+Um dos projetos mais importantes da minha trajetória acadêmica atualmente é o **IncuIA**.
+
+Um projeto de TCC desenvolvido em equipe com foco em:
+
+**Tecnologia Assistiva + Inteligência Artificial + Acessibilidade + Inclusão**
+
+A proposta é utilizar tecnologia para desenvolver uma solução que possa facilitar o acesso à informação e à comunicação por pessoas com deficiência.
+
+É um projeto que representa algo que considero importante:
+
+> **Tecnologia não precisa apenas ser eficiente. Ela também pode ser inclusiva.**
 
 ---
 
 # 🛠️ Tech Stack
 
-### 💻 Development
+### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,js,ts"/>
+</p>
 
-### ⚛️ Web
+### Web
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,nextjs,nestjs"/>
+</p>
 
-### 📊 Data & Analytics
+### Data
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python,postgres,mysql,supabase"/>
+</p>
 
-### 🤖 AI & Machine Learning
+**Pandas · NumPy · SQL · Power BI · Excel**
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker"/>
+</p>
+
+**n8n · APIs · REST · GitHub**
+
+---
+
+# 📈 GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielsim9es&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=transparent"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsim9es&layout=compact&langs_count=8&hide_border=true&theme=transparent"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=danielsim9es&hide_border=true&theme=transparent"/>
+
+</div>
+
+---
+
+# 📌 O que você encontrará por aqui
+
+Este GitHub é um registro da minha evolução.
+
+Aqui compartilho:
 
 ```text
-Machine Learning
-Data Analysis
-Data Preparation
-Classification
-Generative AI
-AI Automation
-API Integration
+💻 Projetos
+📊 Dados
+🤖 Inteligência Artificial
+🔄 Automação
+🌐 Desenvolvimento Web
+🧠 Estudos
+🎓 Projetos acadêmicos
+🧪 Experimentos
+🚀 Produtos em desenvolvimento
 ```
 
----
+Alguns projetos estão prontos.
 
-# 🚀 Projetos em destaque
+Outros estão em evolução.
 
-## ♿ IncuIA
-
-### Tecnologia Assistiva + Inteligência Artificial + Inclusão
-
-Meu principal projeto acadêmico atualmente.
-
-O **IncuIA** é um projeto de TCC em Ciência da Computação desenvolvido em equipe, com foco na utilização da tecnologia para ampliar **acessibilidade, comunicação e inclusão**.
-
-A proposta combina:
-
-`IA` + `Tecnologia Assistiva` + `Software` + `Acessibilidade`
-
-O projeto busca transformar conceitos acadêmicos em uma solução funcional, simples e acessível.
+E alguns existem justamente para registrar aquilo que aprendi enquanto construía.
 
 ---
 
-## 📊 Data Analytics Engine
+# 🎯 Onde quero chegar
 
-### Dados brutos → informação → decisão
+Quero construir uma carreira na interseção entre:
 
-Projeto voltado para automatizar o processo de análise de datasets.
+### `Software` + `Data` + `AI`
 
-A ideia é permitir que arquivos de dados sejam processados automaticamente, identificando:
+Meu objetivo é desenvolver soluções que não sejam apenas tecnicamente interessantes, mas que consigam **resolver problemas reais**.
 
-* 📈 KPIs
-* 🔎 padrões
-* ⚠️ problemas de qualidade
-* 📊 estatísticas
-* 💡 insights
-* 🧹 inconsistências
-* 📁 estruturas prontas para BI
+Estou especialmente interessado em oportunidades e projetos relacionados a:
 
-**Stack**
-
-`Python` `Pandas` `NumPy` `SQL` `Power BI`
+**Desenvolvimento de Software · Data Analytics · Inteligência Artificial · Automação · Tecnologia Assistiva**
 
 ---
 
-## 🎯 Lead Analytics
+# 💭 Uma ideia que representa minha jornada
 
-### Prospecção comercial orientada por dados
-
-Projeto voltado à construção de uma solução para **prospecção diária de leads**, utilizando dados empresariais e integração com APIs.
-
-O sistema trabalha com tratamento, organização e estruturação dos dados para apoiar o time comercial.
-
-Entre os dados:
-
-`CNPJ` · `Empresa` · `Categoria` · `Segmento` · `Decisores` · `Telefone` · `E-mail`
-
-**Stack**
-
-`Python` `APIs` `Pandas` `Excel` `Data Analytics`
+> **Aprender tecnologia é importante.
+> Saber onde aplicá-la é ainda mais.**
 
 ---
 
-## 🏗️ SaaS & Web Applications
+# 🤝 Vamos conectar?
 
-Também venho desenvolvendo aplicações web e produtos SaaS, explorando conceitos como:
+Se você também gosta de conversar sobre:
 
-```text
-Multi-tenancy
-Authentication
-Authorization
-REST APIs
-Webhooks
-Dashboards
-CRM
-Database Architecture
-AI Integration
-Automation
-```
+`Tecnologia` · `Dados` · `IA` · `Software` · `Automação` · `Inovação`
 
-O objetivo é sair do conceito e experimentar **todo o ciclo de construção de um produto digital**.
+será um prazer trocar experiências.
 
----
-
-# 🎓 Minha jornada
-
-Minha entrada na tecnologia não aconteceu apenas através da programação.
-
-Minha experiência profissional com **processos, dados, administração, automação e apoio à gestão** despertou uma pergunta:
-
-> **Como podemos utilizar tecnologia para fazer melhor aquilo que já fazemos todos os dias?**
-
-Foi essa pergunta que me levou para a Ciência da Computação.
-
-Hoje, cada projeto é uma oportunidade de conectar aquilo que aprendi profissionalmente com aquilo que estou aprendendo academicamente.
-
----
-
-# 📚 O que estou estudando
-
-```text
-┌─────────────────────────────────────────┐
-│           CIÊNCIA DA COMPUTAÇÃO         │
-├─────────────────────────────────────────┤
-│                                         │
-│  ▸ Algoritmos & Estruturas de Dados     │
-│  ▸ Banco de Dados                        │
-│  ▸ Engenharia de Software                │
-│  ▸ Sistemas Distribuídos                 │
-│  ▸ Redes & Infraestrutura                │
-│  ▸ Grafos                                │
-│  ▸ Compiladores                          │
-│  ▸ Ciência de Dados                      │
-│  ▸ Machine Learning                      │
-│  ▸ Inteligência Artificial               │
-│  ▸ Segurança da Informação               │
-│                                         │
-└─────────────────────────────────────────┘
-```
-
----
-
-# 🔥 Atualmente estou focado em
-
-**01 — Python & Data Analytics**
-
-Construir pipelines, automatizar análises e transformar dados em informação.
-
-**02 — Inteligência Artificial**
-
-Explorar aplicações práticas de IA e Machine Learning.
-
-**03 — Software Development**
-
-Criar aplicações completas, APIs e produtos digitais.
-
-**04 — Cloud & Arquitetura**
-
-Entender como transformar projetos locais em soluções escaláveis.
-
-**05 — Tecnologia Assistiva**
-
-Utilizar tecnologia para criar soluções que tenham impacto além do código.
-
----
-
-# 💭 Minha forma de pensar
-
-Não quero simplesmente **aprender uma tecnologia porque ela está em alta**.
-
-Quero entender:
-
-> **Qual problema ela resolve?**
-
-> **Como posso utilizá-la?**
-
-> **Como posso transformar isso em algo útil?**
-
-Essa mentalidade tem guiado minha evolução.
-
----
-
-# 📈 GitHub Stats
+<br>
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=danielsim9es&show_icons=true&theme=transparent&hide_border=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsim9es&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
-
----
-
-# 🌱 Em construção
-
-Este perfil não representa um ponto final.
-
-Ele representa **processo**.
-
-Cada repositório, commit, projeto, erro e aprendizado faz parte da construção da minha carreira em tecnologia.
-
-```text
-Aprender
-   ↓
-Experimentar
-   ↓
-Construir
-   ↓
-Errar
-   ↓
-Melhorar
-   ↓
-Compartilhar
-   ↓
-Repetir
-```
-
----
-
-# 🤝 Vamos construir algo?
-
-Tenho interesse em conversar sobre:
-
-**Tecnologia · Dados · IA · Software · Automação · Acessibilidade · Inovação**
-
-Se algum projeto chamou sua atenção, fique à vontade para explorar meus repositórios.
-
----
-
-### 🚀 Building the future, one project at a time.
+### 🚀 Sempre aprendendo. Sempre construindo.
 
 **Daniel Simões**
 
-`Computer Science Student` · `Data` · `AI` · `Software`
+</p>
