@@ -158,19 +158,29 @@ Durante minha formação, venho estudando:
 
 ---
 
-# ♿ Próximo capítulo: IncuIA
+# # ♿ IncluIA — Tecnologia Assistiva e Inclusão
 
-Um dos projetos mais importantes da minha trajetória acadêmica atualmente é o **IncuIA**.
+### `Product Owner` · `IA` · `Acessibilidade` · `Software`
 
-Um projeto de TCC desenvolvido em equipe com foco em:
+Atualmente sou **Product Owner (PO)** do **IncluIA**, projeto de TCC desenvolvido em equipe no curso de Ciência da Computação — UNICID.
 
-**Tecnologia Assistiva + Inteligência Artificial + Acessibilidade + Inclusão**
+O projeto busca desenvolver uma solução de **tecnologia assistiva**, utilizando recursos de **Inteligência Artificial** para contribuir com acessibilidade, comunicação e inclusão.
 
-A proposta é utilizar tecnologia para desenvolver uma solução que possa facilitar o acesso à informação e à comunicação por pessoas com deficiência.
+Como **Product Owner**, atuo principalmente na:
 
-É um projeto que representa algo que considero importante:
+* 🎯 Definição e visão do produto
+* 📋 Levantamento e organização dos requisitos
+* 🧩 Definição das regras de negócio
+* 📌 Priorização do Product Backlog
+* 👥 Alinhamento entre os integrantes da equipe
+* 🤝 Comunicação com stakeholders
+* 🔎 Validação das necessidades do projeto
+* 🚀 Direcionamento das entregas e evolução do produto
 
-> **Tecnologia não precisa apenas ser eficiente. Ela também pode ser inclusiva.**
+Mais do que desenvolver uma aplicação, o objetivo é construir uma solução que tenha **propósito, usabilidade e impacto social**.
+
+> **Tecnologia assistiva não deve apenas funcionar. Ela deve fazer sentido para quem precisa utilizá-la.**
+
 
 ---
 
