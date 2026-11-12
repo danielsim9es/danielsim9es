@@ -1,266 +1,128 @@
-# 👋 Olá, eu sou Daniel Simões
+# Daniel Simões
 
-### Software Development · Data Analytics · Artificial Intelligence · Product Development
+**Software Development | Data Analytics | Artificial Intelligence**
 
-<p align="left">
-  <a href="https://github.com/danielsim9es">
-    <img src="https://img.shields.io/github/followers/danielsim9es?style=for-the-badge&logo=github&label=Followers" />
-  </a>
-  <a href="https://github.com/danielsim9es?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-Projects-181717?style=for-the-badge&logo=github" />
-  </a>
-  <img src="https://img.shields.io/badge/Brazil-🇧🇷-009c3b?style=for-the-badge" />
-</p>
+Estudante de Ciência da Computação na UNICID, com experiência profissional em processos, análise de dados, automação e desenvolvimento de soluções tecnológicas.
 
-> Transformando problemas reais em soluções tecnológicas através de software, dados e inteligência artificial.
+Atualmente, direciono meus estudos e projetos para desenvolvimento de software, engenharia de dados e inteligência artificial, com foco na construção de aplicações, integração de sistemas e automação de processos.
 
-Sou profissional com experiência em processos, dados, automação e tecnologia, e estudante de **Ciência da Computação (Bacharelado — UNICID)**.
-
-Minha atuação conecta conhecimentos de negócio e tecnologia para desenvolver aplicações, automatizar processos, estruturar dados e criar produtos digitais.
-
-Tenho interesse especial em construir soluções que combinem engenharia de software, inteligência artificial e análise de dados, sempre considerando o problema, a arquitetura e o valor que a tecnologia pode entregar.
+Tenho interesse em participar do desenvolvimento de produtos digitais, desde a compreensão dos requisitos e definição da solução até a implementação e evolução técnica.
 
 ---
 
-## 🧭 Minha atuação
+## Áreas de atuação
 
-Minha trajetória combina experiência profissional e desenvolvimento tecnológico.
+- **Desenvolvimento de Software:** aplicações web, APIs, integração de sistemas e desenvolvimento full-stack.
+- **Data Analytics:** tratamento, organização, análise e visualização de dados.
+- **Inteligência Artificial:** Machine Learning, IA generativa e automação inteligente.
+- **Automação:** integração de serviços, workflows e otimização de processos.
+- **Desenvolvimento de Produtos:** levantamento de requisitos, regras de negócio, planejamento e gestão de funcionalidades.
 
-Ao longo dessa jornada, desenvolvi uma visão que vai além da programação: entender necessidades, identificar oportunidades, estruturar processos e transformar ideias em soluções funcionais.
+## Projetos
 
-Atualmente, concentro meus esforços em quatro frentes:
+### LeadForge AI
+**Plataforma de inteligência comercial e prospecção B2B**
 
-| Área | Foco |
-|---|---|
-| 💻 Software Engineering | Aplicações, APIs, arquitetura e desenvolvimento full-stack |
-| 📊 Data Analytics | Engenharia, tratamento, análise e visualização de dados |
-| 🤖 Artificial Intelligence | IA generativa, Machine Learning e automação inteligente |
-| 🚀 Product Development | Concepção, requisitos, gestão e evolução de produtos digitais |
+Desenvolvimento de uma plataforma para identificação, enriquecimento e gerenciamento de leads empresariais, integrando fontes externas de dados e recursos de CRM.
 
----
+Tecnologias: `TypeScript` `Next.js` `React` `NestJS` `Supabase` `REST APIs`
 
-## 🚀 Projetos e desenvolvimento
+### Radar Fuzion
+**Prospecção comercial baseada em geolocalização**
 
-Acredito que a melhor maneira de aprender tecnologia é construir soluções.
+Projeto voltado à identificação e qualificação de potenciais clientes por segmento e localização, utilizando serviços de geolocalização, integração com APIs e recursos de inteligência artificial.
 
-Meus projetos envolvem diferentes desafios técnicos, desde aplicações desktop e automações até plataformas SaaS e sistemas inteligentes.
+Tecnologias: `React` `TypeScript` `Supabase` `Google Maps API` `OpenAI API`
 
-### 🧠 LeadForge AI
-**Inteligência comercial e prospecção B2B**
+### IMPACTA
+**Aplicação de análise de dados e inteligência comercial**
 
-Plataforma voltada à prospecção empresarial, enriquecimento de dados e organização de oportunidades comerciais.
+Desenvolvimento de uma aplicação em Python para consulta, organização e análise de informações empresariais, com persistência local, exportação de dados e visualização de indicadores.
 
-Principais conceitos:
-- Prospecção B2B e inteligência comercial.
-- Extração e enriquecimento de dados.
-- Integração com APIs externas.
-- CRM com gerenciamento de leads.
-- Arquitetura multi-tenant.
-- Gestão de usuários e créditos.
-- Automação de processos comerciais.
+Tecnologias: `Python` `Pandas` `SQLite` `SQL` `Power BI` `Excel`
 
-`Next.js` `React` `TypeScript` `NestJS` `Supabase` `APIs`
+### IncluIA
+**Projeto acadêmico de tecnologia assistiva**
 
----
+Projeto de conclusão de curso em Ciência da Computação na UNICID, direcionado ao desenvolvimento de uma solução de acessibilidade para estudantes com deficiência auditiva, utilizando recursos de inteligência artificial e representação visual em Libras.
 
-### 📡 Radar Fuzion
-**Inteligência de mercado e prospecção geolocalizada**
+**Responsabilidade:** Product Owner (PO).
 
-Solução para identificação e qualificação de potenciais clientes a partir de localização, segmentos de mercado e critérios comerciais.
+Atuação na definição do produto, levantamento de requisitos, organização do backlog, priorização de funcionalidades e alinhamento das atividades da equipe.
 
-Principais conceitos:
-- Geolocalização e Google Places.
-- Prospecção por segmento e região.
-- Inteligência artificial aplicada à qualificação de leads.
-- Score de oportunidades.
-- CRM e pipeline comercial.
-- Integração com serviços externos.
+Tecnologias e conceitos: `Artificial Intelligence` `Software Engineering` `Accessibility` `Product Management`
 
-`React` `TypeScript` `Supabase` `Google Maps API` `OpenAI API`
+Repositório: [github.com/danielsim9es/incluia-tcc](https://github.com/danielsim9es/incluia-tcc)
+
+### Outros projetos
+
+- **ImpactTax:** tecnologia aplicada à gestão e análise de incentivos fiscais.
+- **Meu Apê 360:** desenvolvimento de uma plataforma digital para o segmento imobiliário.
+- **Data Analytics Engine:** processamento e análise de dados com Python e Power BI.
+- **Network Traffic Classification:** estudo de Machine Learning utilizando o algoritmo OneR para classificação de tráfego de rede.
 
 ---
 
-### 📊 IMPACTA
-**Data Analytics & Business Intelligence**
+## Tecnologias
 
-Aplicação desenvolvida em Python para apoiar processos de prospecção comercial, organização de informações empresariais e análise de dados.
-
-Principais funcionalidades e conceitos:
-- Consulta e organização de informações empresariais.
-- Estruturação e persistência de dados.
-- Integração com fontes externas.
-- Exportação de informações para Excel.
-- Dashboard de indicadores.
-- Análise de dados para suporte à decisão.
-
-`Python` `Pandas` `SQL` `SQLite` `Power BI` `Excel`
-
----
-
-### ♿ IncluIA
-**Tecnologia assistiva, inteligência artificial e acessibilidade**
-
-Projeto de TCC desenvolvido em equipe no curso de Ciência da Computação da UNICID.
-
-A proposta é desenvolver uma solução tecnológica para apoiar a acessibilidade de estudantes com deficiência auditiva, utilizando recursos de inteligência artificial e representação visual em Libras.
-
-**Minha atuação: Product Owner (PO)**
-
-- Definição da visão e objetivos do produto.
-- Levantamento e organização de requisitos.
-- Estruturação e priorização do Product Backlog.
-- Definição de regras de negócio.
-- Alinhamento entre equipe e stakeholders.
-- Acompanhamento das entregas e evolução do produto.
-- Validação das funcionalidades e necessidades dos usuários.
-
-`Product Ownership` `Artificial Intelligence` `Accessibility` `Software Engineering`
-
-🔗 [Repositório do IncluIA](https://github.com/danielsim9es/incluia-tcc)
-
----
-
-### 📈 Outros projetos e iniciativas
-
-Além dos projetos principais, também venho explorando diferentes aplicações da tecnologia:
-
-- **ImpactTax:** iniciativa de tecnologia aplicada à gestão e análise de incentivos fiscais.
-- **Meu Apê 360:** conceito de plataforma digital com planos e serviços para o mercado imobiliário.
-- **Data Analytics Engine:** desenvolvimento de soluções de análise e processamento de dados com Python e Power BI.
-- **OneR — Network Traffic Classification:** aplicação de Machine Learning para classificação de tráfego de rede entre atividades normais e ataques.
-- **n8n Workflows:** automação de processos, integrações e fluxos inteligentes.
-
----
-
-## 🛠️ Tech Stack
-
-### Linguagens de programação
+**Linguagens**
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,c,javascript,typescript" />
 </p>
 
-### Desenvolvimento Web & Backend
+**Desenvolvimento**
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,nestjs" />
 </p>
 
-### Dados & Inteligência Artificial
+**Dados e bancos de dados**
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,sqlite" />
 </p>
 
-`Pandas` · `NumPy` · `Power BI` · `Excel` · `Scikit-learn` · `Machine Learning` · `Generative AI`
+`Pandas` · `NumPy` · `Power BI` · `Excel` · `Scikit-learn`
 
-### Banco de dados & Integrações
-
-`PostgreSQL` · `MySQL` · `SQLite` · `Supabase` · `REST APIs` · `JSON`
-
-### Ferramentas & Infraestrutura
+**Ferramentas e infraestrutura**
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" />
 </p>
 
-`n8n` · `GitHub` · `VS Code` · `Claude Code` · `APIs` · `Automations`
+`n8n` · `REST APIs` · `Git` · `GitHub`
 
 ---
 
-## 🧠 Conhecimentos e interesses técnicos
-
-| Especialidade | Conhecimentos |
-|---|---|
-| Software Engineering | Arquitetura de aplicações, APIs REST, integração e desenvolvimento full-stack |
-| Data Analytics | ETL, tratamento de dados, indicadores, dashboards e análise exploratória |
-| Artificial Intelligence | IA generativa, Machine Learning, classificação e automação inteligente |
-| Databases | Modelagem, consultas SQL, persistência e estruturação de dados |
-| Cloud & Infrastructure | Sistemas distribuídos, infraestrutura de TI e containers |
-| Product Development | Requisitos, regras de negócio, Product Backlog e gestão de entregas |
-| Cybersecurity | Redes, segurança da informação e análise de tráfego |
-
----
-
-## 🎓 Formação acadêmica
+## Formação
 
 **Bacharelado em Ciência da Computação — UNICID**
 
-Minha formação acadêmica complementa a experiência prática com fundamentos importantes da computação:
+Principais áreas de estudo:
 
-- Algoritmos e Estruturas de Dados.
-- Programação e Orientação a Objetos.
-- Banco de Dados.
-- Grafos e Teoria da Computação.
-- Redes e Infraestrutura de TI.
-- Sistemas Distribuídos.
-- Engenharia de Software.
-- Compiladores.
-- Ciência de Dados.
-- Machine Learning e Inteligência Artificial.
-- Segurança da Informação.
-
-Busco conectar os fundamentos acadêmicos com aplicações práticas e projetos que representem desafios reais de desenvolvimento.
+- Algoritmos e estruturas de dados
+- Programação orientada a objetos
+- Banco de dados
+- Engenharia de software
+- Ciência de dados e Machine Learning
+- Inteligência artificial
+- Redes e infraestrutura de TI
+- Sistemas distribuídos
+- Segurança da informação
 
 ---
 
-## 📈 GitHub Analytics
+## GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielsim9es&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsim9es&layout=compact&langs_count=8&hide_border=true&theme=transparent" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielsim9es&hide_border=true&theme=transparent" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=danielsim9es&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsim9es&layout=compact&langs_count=8&hide_border=true&theme=transparent" />
 </div>
 
 ---
 
-## 🔭 Atualmente explorando
+## Contact
 
-- Desenvolvimento de produtos SaaS e aplicações escaláveis.
-- Engenharia de dados e Business Intelligence.
-- Inteligência artificial aplicada a processos empresariais.
-- Agentes de IA, ferramentas e integrações.
-- Arquitetura de software e APIs.
-- Automação de processos e workflows.
-- Tecnologia assistiva e soluções de impacto social.
+[LinkedIn](https://www.linkedin.com/in/daniel-simoes/) · [GitHub](https://github.com/danielsim9es) · [Connectehcode](https://www.connectehcode.com)
 
----
-
-## 🎯 Minha visão
-
-A tecnologia tem seu maior potencial quando conecta conhecimento técnico a necessidades reais.
-
-Meu objetivo é continuar desenvolvendo soluções que unam **Software Engineering, Data Analytics e Artificial Intelligence**, participando da construção de produtos digitais que entreguem eficiência, inteligência e valor.
-
-Não quero apenas conhecer ferramentas ou linguagens.
-
-Quero compreender como as tecnologias funcionam, como se conectam e como podem ser utilizadas para resolver problemas complexos.
-
----
-
-## 🤝 Vamos conectar?
-
-Estou aberto a trocar experiências, colaborar em projetos e conversar sobre desenvolvimento de software, dados, inteligência artificial e inovação tecnológica.
-
-<p align="left">
-  <a href="https://github.com/danielsim9es">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/daniel-simoes/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.connectehcode.com">
-    <img src="https://img.shields.io/badge/Connectehcode-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-
-### 🚀 Always learning. Always building.
-
-**Daniel Simões**
-
-</p>
