@@ -3,7 +3,7 @@
 **Software Developer | Data Analytics | AI Solutions | Technology & Product Development**
 
 [![GitHub](https://img.shields.io/badge/GitHub-danielsim9es-181717?style=flat&logo=github)](https://github.com/danielsim9es)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/daniel-simoes/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/danielsim9es/)
 [![Website](https://img.shields.io/badge/Website-Connectehcode-111827?style=flat&logo=googlechrome)](https://www.connectehcode.com)
 ![Location](https://img.shields.io/badge/Location-Brazil-009c3b?style=flat)
 
@@ -28,18 +28,23 @@ Minha experiência também envolve processos empresariais, análise de informaç
 ## Professional Focus
 
 ### Software Development
+
 Desenvolvimento de aplicações, plataformas e soluções web, contemplando estruturação de projetos, integração de serviços, APIs, persistência de dados e funcionalidades de negócio.
 
 ### Data Analytics & Business Intelligence
+
 Tratamento, organização e interpretação de dados para geração de indicadores, dashboards e informações que apoiem decisões empresariais.
 
 ### Artificial Intelligence
+
 Aplicação de inteligência artificial e Machine Learning em processos de análise, classificação, enriquecimento de informações e automação de atividades.
 
 ### Automation & Systems Integration
+
 Desenvolvimento de workflows e integração entre plataformas, serviços e fontes de dados para otimização de processos operacionais e comerciais.
 
 ### Product Development
+
 Estruturação de produtos digitais, definição de requisitos, regras de negócio, priorização de funcionalidades e acompanhamento da evolução das aplicações.
 
 ---
@@ -67,7 +72,7 @@ Solução de prospecção comercial baseada em localização e segmentação de 
 
 - Pesquisa de empresas por região e segmento.
 - Integração com Google Places e serviços de geolocalização.
-- Qualificação e classificação de leads.
+- Qualificação de oportunidades comerciais.
 - Inteligência artificial aplicada à análise comercial.
 - CRM e organização do pipeline de oportunidades.
 
@@ -164,7 +169,8 @@ Projeto de tecnologia assistiva voltado à acessibilidade de estudantes com defi
 
 ## Education
 
-**Computer Science — Bachelor's Degree**  
+**Computer Science — Bachelor's Degree**
+
 Universidade Cidade de São Paulo (UNICID)
 
 Academic background in software engineering, algorithms, data structures, databases, distributed systems, computer networks, artificial intelligence and information security.
@@ -183,7 +189,7 @@ Academic background in software engineering, algorithms, data structures, databa
 ## Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danielsim9es)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-simoes/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielsim9es/)
 [![Connectehcode](https://img.shields.io/badge/Connectehcode-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.connectehcode.com)
 
 <p align="center">
